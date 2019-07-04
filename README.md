@@ -1,3 +1,8 @@
+---
+layout: page
+title: Main page
+---
+
 # Hello world :)
 
 ## Welcome or not...
